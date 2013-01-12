@@ -1,0 +1,17 @@
+
+Here's the sample output got from executing NumberTextTest.java:
+
+1. With Approach 1:
+123456789 in British English phrase: One Hundred and Twenty Three Million Four Hundred and Fifty Six Thousand Seven Hundred and Eighty Nine  
+12345678 in British English phrase: Twelve Million Three Hundred and Forty Five Thousand Six Hundred and Seventy Eight  
+1234567 in British English phrase: One Million Two Hundred and Thirty Four Thousand Five Hundred and Sixty Seven  
+123456 in British English phrase: One Hundred and Twenty Three Thousand Four Hundred and Fifty Six  
+12345 in British English phrase: Twelve Thousand Three Hundred and Forty Five
+1234 in British English phrase: One Thousand Two Hundred and Thirty Four  
+123 in British English phrase: One Hundred and Twenty Three  
+11 in British English phrase: Eleven  
+1 in British English phrase: One  
+
+2. With Approach 2: Incomplete solution
+123456789 in British English Phrase using OO: One Hundred and Twenty Three Million Four Hundred and Fifty Six Thousand Seven Hundred and Eighty Nine
+123456 in British English Phrase using OO: One Hundred and Twenty Three Thousand Four Hundred and Fifty Six     
